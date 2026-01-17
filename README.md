@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I have 6 years of education in Graphic Design and 5 years of hands-on experience as a Developer. Throughout my development career, I have worked extensively with Lua, JavaScript and etc. particularly on FiveM projects, creating custom systems, optimized scripts, and performance-focused solutions.<br><br>On the design side, I am proficient in all photo editing and image manipulation software except Adobe and other common editing programs. I have a strong understanding of visual aesthetics, user experience, and technical structure, allowing me to combine design and development into functional and visually appealing projects.<br><br>I am a multidisciplinary professional with strong problem-solving skills, a passion for learning, and the ability to adapt quickly to new technologies. With a disciplined work ethic and a broad skill set, I can efficiently deliver tailored solutions for diverse projects.</h2>
+<h2 align="left">I have 6 years of education in Graphic Design and 5 years of hands-on experience as a Developer. Throughout my development career, I have worked extensively with Lua, JavaScript, and etc. particularly on FiveM projects, creating custom systems, optimized scripts, and performance-focused solutions.<br><br>On the design side, I am proficient in all photo editing and image manipulation software except Adobe and other common editing programs. I have a strong understanding of visual aesthetics, user experience, and technical structure, allowing me to combine design and development into functional and visually appealing projects.<br><br>I am a multidisciplinary professional with strong problem-solving skills, a passion for learning, and the ability to adapt quickly to new technologies. With a disciplined work ethic and a broad skill set, I can efficiently deliver tailored solutions for diverse projects.</h2>
 
 ###
 
@@ -74,13 +74,7 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/editsquex/editsquex/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/editsquex/editsquex/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/editsquex/editsquex/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/editsquex/editsquex/output/snake.svg" alt="Snake animation" />
 
 ###
 
