@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 Welcome my page</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Squex&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 ###
 
