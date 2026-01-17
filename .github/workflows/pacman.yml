@@ -21,7 +21,7 @@ jobs:
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ EditSquex }}
 
 
       - name: push pacman-contribution-graph.svg to the output branch
@@ -30,4 +30,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ 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 }}
